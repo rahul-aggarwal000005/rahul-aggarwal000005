@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-aggarwal000005&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-aggarwal000005" /> </p>
 
-- 🌱 I’m currently learning **Android Java Backend**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Node JS, JavaScript**
 
 - 📫 How to reach me **rahul.aggarwal000005@gmail.com**
 
