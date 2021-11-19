@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-aggarwal000005&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-aggarwal000005" /> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Node JS, JavaScript**
 
