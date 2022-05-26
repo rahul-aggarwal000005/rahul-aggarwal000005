@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning ReactJS
 
-💬 Ask me about Node JS, JavaScript
+💬 Ask me about Node JS, Express
 
 📫 How to reach me rahul.aggarwal000005@gmail.com
 
