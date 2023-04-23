@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Aggarwal</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 
-🌱 I’m currently learning ReactJS
+🌱 I’m currently learning SpringBoot
 
-💬 Ask me about Node JS, Express
+💬 Ask me about Java, MongoDb, Elastic Search, Kafka, Redis
 
 📫 How to reach me rahul.aggarwal000005@gmail.com
 
